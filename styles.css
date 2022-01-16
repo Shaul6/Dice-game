@@ -57,9 +57,13 @@ footer {
 }
 @media (max-width: 450px) {
   h1 {
-    font-size: 1.7rem;
+    font-size: 1.6rem;
+    font-weight: lighter;
   }
   img {
-    width: 50%;
+    width: 37%;
+  }
+  .playButton{
+    font-size: 2rem;
   }
   }
